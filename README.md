@@ -28,7 +28,6 @@
 | `classification_si.ipynb`           | классификация SI выше медианы                       |
 | `classification_si8.ipynb`          | классификация SI выше 8                             |
 | `coursework_whitepaper_report.pdf`  | итоговый аналитический отчет                        |
-| `coursework_whitepaper_report.docx` | редактируемая версия отчета                         |
 
 ## Что было сделано
 
